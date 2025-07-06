@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-python-dotenv
 chainlit==1.0.300
+python-dotenv
