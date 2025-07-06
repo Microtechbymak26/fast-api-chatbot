@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-chainlit
 python-dotenv
-openai
+chainlit
