@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+chainlit
+python-dotenv
+openai
